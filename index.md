@@ -52,7 +52,11 @@ Anwendungsbereiche
 
 Der Design-Thinking-Prozess fand ursprünglich Anwendung in der Produktentwicklung. Es hat sich jedoch gezeigt, dass die Technik überall Anwendung findet, wo Lösungen durch eine Kreativtechnik gesucht werden. Dies kann beispielsweise bei Geschäftsmodellentwicklungen der Fall sein. Durch den Innovationsprozess können zudem Management- und Unternehmensstrategien entwickelt werden. Es bietet sich die Chance, Fehler zu akzeptieren und diese als Gewinn zu sehen. Eine positive Auswirkung auf die Motivation ist eine anzunehmende Folge. Anwendungen des Design-Thinking-Prozesses aus der Praxis zeigen, dass Bausteine einer Idee schon bei einer tieferen Beschäftigung mit dem Problemraum mit enthalten sind. Eine positive Auswirkung in der Praxis ist außerdem eine Erhöhung der Wettbewerbsfähigkeit auf dem Markt.
 Das Design Thinking weist auch Grenzen auf. Der Prozess kann nicht als „Wunderserum“ für jedes Problem gesehen werden. Es kann durchaus der Fall sein, dass keine Lösung gefunden wird. Dies gilt es zu akzeptieren. Die Wahrscheinlichkeit, die Bedürfnisse erfolgreich zu eruieren, wird trotz dessen erhöht, da die Chance, ein komplexes Problem zu lösen erhöht ist (López, 2019, S. 2, 4.) 
-   
+ In der folgenden Abbildung werden zusammenfassend die nötigen Eigenschaften eines Design Thinkers gezeigt:
+
+ ![Kompetenzen](0.4.png) 
+ 
+  
 Fazit
 
 Unternehmen müssen lernen, einen neuen Blickwinkel auf Fragestellungen und Erkenntnisse zu entwickeln. Neue Wege werden durch das Design Thinking beschritten und ungewöhnliche Ideen müssen im selben Maße betrachtet werden wie die gewöhnlichen. Design Thinking bedeutet auch, visuell zu arbeiten. Dies heißt Ideen und Ansätze bildhaft darzustellen um dessen Verständnis zu erhöhen. Kollaboratives Arbeiten steht beim Design Thinking ebenso im Mittelpunkt wie der Perspektivenwechsel zum Nutzer. Der Fokus des Design-Thinking-Prozesses liegt in der Eruierung der Kundenbedürfnisse, um dessen Wünsche zu verstehen und den Nutzen für die Kunden vollkommen auszuschöpfen. Menschen werden individueller betrachtet und die Bedürfnisse werden spezieller. Darauf müssen Unternehmen reagieren und auch neue Wege gehen !
