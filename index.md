@@ -2,7 +2,7 @@
 
 ![kreise](0.2.png)
 
-#Einleitung
+Einleitung
 
 Make the human element as important as the technical & business elements. Dies ist der zentrale Grundgedanke einer Kreativtechnik, die es ermöglicht, vielschichtige Fragestellungen zu lösen. Das sogenannte Design Thinking ist ein lösungsorientierter Innovationprozess, dessen Ziel es ist die Bedürfnisse von Menschen zu eruieren, Herausforderungen anzunehmen und durch Kreativtechniken eine innovative Lösung zu finden. Der fortschreitende Innovationsgedanke ist in den meisten Unternehmen angekommen und das entstandene Bewusstsein, in Team-Prozessen nach Lösungen zu suchen, ist Grundgedanke des Design Thinking (Schallmo, 2017, S. 13).
 Der detaillierte Ablauf ist vielen jedoch nicht bekannt. Der Frage, was im Einzelnen passiert, wird in dieser Arbeit nachgegangen. 
