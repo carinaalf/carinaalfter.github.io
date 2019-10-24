@@ -1,10 +1,13 @@
 [Hier ist mein Professor](https://ulrich-anders.eu/)
 
+![kreise](0.2..png)
+
 1. Einleitung
 
 Make the human element as important as the technical & business elements. Dies ist der zentrale Grundgedanke einer Kreativtechnik, die es ermöglicht, vielschichtige Fragestellungen zu lösen. Das sogenannte Design Thinking ist ein lösungsorientierter Innovationprozess, dessen Ziel es ist die Bedürfnisse von Menschen zu eruieren, Herausforderungen anzunehmen und durch Kreativtechniken eine innovative Lösung zu finden. Der fortschreitende Innovationsgedanke ist in den meisten Unternehmen angekommen und das entstandene Bewusstsein, in Team-Prozessen nach Lösungen zu suchen, ist Grundgedanke des Design Thinking (Schallmo, 2017, S. 13).
 Der detaillierte Ablauf ist vielen jedoch nicht bekannt. Der Frage, was im Einzelnen passiert, wird in dieser Arbeit nachgegangen. 
 Das Verfahren hat in den letzten Jahren an Relevanz gewonnen, da die Schnelligkeit von Innovationszyklen zunimmt. Die Bedürfnisse der Menschen werden spezieller und daher wird es für Unternehmen schwieriger, mit Produkten oder Dienstleistungen diese zu befriedigen. Aufgrund der Digitalisierung und den internationalen Einflüssen fließen Trends in die Kaufentscheidungen mit ein und Probleme werden zunehmend komplexer. Die Herausforderung, den hybriden Konsumenten einzuschätzen kann beispielsweise durch Expertenurteile geschehen. Das Risiko einer falschen Prognose ist jedoch immer möglich (Grots und Pratschke, 2009, S. 18, 19).
+
 2. Definition
 
 Entstanden ist das Design Thinking in den USA an der Standford University in Kalifornien. Nach Weiterentwicklungen fand der Ansatz seinen Weg nach Deutschland. 
@@ -15,8 +18,8 @@ Die Kreativtechnik ist zudem ein iterativer Prozess. Dies bedeutet, dass Schritt
 
 Insgesamt besteht der Prozess aus zwei Betrachtungsräumen. Die Problemdefinition, die Beobachtung und die Einsicht gehören zu dem Problemraum, indem das Problem identifiziert wird. Die darauffolgende Ideenfindung, die Gestaltung eines Prototyps und der Test gehören in den Lösungsraum, indem eine innovative Lösung entwickelt wird. Der tatsächliche Bedarf des Kunden wird im ersten Raum ermittelt. Dies ist die Basis für den gesamten innovativen Prozess, denn je mehr Zeit und Aufwand in diesem Raum investiert wird, desto besser wirkt sich dies auf die Erarbeitung und Ergebnisse im Lösungsraum aus. Eine grundlegende Hilfe die Kreativität zu fördern ist ein geeigneter „Team Space“, das bedeutet flexible Räumlichkeiten, in denen sich die Teammitglieder wohlfühlen und die sie frei gestalten können (Gürtler und Meyer, 2013, S. 20, 21).
 In der folgenden Abbildung wird der Design-Thinking-Prozess dargestellt:
-Abbildung 1: Desing-Thinking-Prozess
-(Quelle: Eigene Darstellung in Anlehnung an Gürtler und Meyer, 2013, S.34)
+
+![Prozess](0.3..png)
 
 In den folgenden Abschnitten wird der Design-Thinking-Prozess in seiner Struktur näher betrachtet.   
 
@@ -53,8 +56,8 @@ Der Design-Thinking-Prozess fand ursprünglich Anwendung in der Produktentwicklu
 Das Design Thinking weist auch Grenzen auf. Der Prozess kann nicht als „Wunderserum“ für jedes Problem gesehen werden. Es kann durchaus der Fall sein, dass keine Lösung gefunden wird. Dies gilt es zu akzeptieren. Die Wahrscheinlichkeit, die Bedürfnisse erfolgreich zu eruieren, wird trotz dessen erhöht, da die Chance, ein komplexes Problem zu lösen erhöht ist (López, 2019, S. 2, 4.) 
 
 In der folgenden Abbildung werden zusammenfassend die nötigen Eigenschaften eines Design Thinkers gezeigt:
-Abbildung 2: Eigenschaften eines Desgin Thinkers
-(Quelle: Eigene Darstellung in Anlehnung an Schallmo, 2017, S. 18)
+
+![Eigenschaften](0.4..png)
 
 5. Fazit
 
