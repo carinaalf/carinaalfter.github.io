@@ -55,7 +55,7 @@ Das Design Thinking weist auch Grenzen auf. Der Prozess kann nicht als „Wunder
 
 In der folgenden Abbildung werden zusammenfassend die nötigen Eigenschaften eines Design Thinkers gezeigt:
 
-![Kompetenzen](4.0.png)
+![Kompetenzen](0.4.png)
 
    
 5.Fazit
