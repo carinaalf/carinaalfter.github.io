@@ -59,9 +59,14 @@ In der folgenden Abbildung werden zusammenfassend die nötigen Eigenschaften ein
 
 ![Eigenschaften](0.4.png)
 
-5. Fazit
+5 Fazit
 
 Unternehmen müssen lernen, einen neuen Blickwinkel auf Fragestellungen und Erkenntnisse zu entwickeln. Neue Wege werden durch das Design Thinking beschritten und ungewöhnliche Ideen müssen im selben Maße betrachtet werden wie die gewöhnlichen. Design Thinking bedeutet auch, visuell zu arbeiten. Dies heißt Ideen und Ansätze bildhaft darzustellen um dessen Verständnis zu erhöhen. Kollaboratives Arbeiten steht beim Design Thinking ebenso im Mittelpunkt wie der Perspektivenwechsel zum Nutzer. Der Fokus des Design-Thinking-Prozesses liegt in der Eruierung der Kundenbedürfnisse, um dessen Wünsche zu verstehen und den Nutzen für die Kunden vollkommen auszuschöpfen. Menschen werden individueller betrachtet und die Bedürfnisse werden spezieller. Darauf müssen Unternehmen reagieren und auch neue Wege gehen !
+
+
+
+
+
 
 
 6. Literaturverzeichnis
