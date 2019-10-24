@@ -1,6 +1,6 @@
 [Hier ist mein Professor](https://ulrich-anders.eu/)
 
-![kreise](0.2..png)
+![kreise](0.2.png)
 
 1. Einleitung
 
@@ -19,7 +19,7 @@ Die Kreativtechnik ist zudem ein iterativer Prozess. Dies bedeutet, dass Schritt
 Insgesamt besteht der Prozess aus zwei Betrachtungsräumen. Die Problemdefinition, die Beobachtung und die Einsicht gehören zu dem Problemraum, indem das Problem identifiziert wird. Die darauffolgende Ideenfindung, die Gestaltung eines Prototyps und der Test gehören in den Lösungsraum, indem eine innovative Lösung entwickelt wird. Der tatsächliche Bedarf des Kunden wird im ersten Raum ermittelt. Dies ist die Basis für den gesamten innovativen Prozess, denn je mehr Zeit und Aufwand in diesem Raum investiert wird, desto besser wirkt sich dies auf die Erarbeitung und Ergebnisse im Lösungsraum aus. Eine grundlegende Hilfe die Kreativität zu fördern ist ein geeigneter „Team Space“, das bedeutet flexible Räumlichkeiten, in denen sich die Teammitglieder wohlfühlen und die sie frei gestalten können (Gürtler und Meyer, 2013, S. 20, 21).
 In der folgenden Abbildung wird der Design-Thinking-Prozess dargestellt:
 
-![Prozess](0.3..png)
+![Prozess](0.3.png)
 
 In den folgenden Abschnitten wird der Design-Thinking-Prozess in seiner Struktur näher betrachtet.   
 
@@ -57,7 +57,7 @@ Das Design Thinking weist auch Grenzen auf. Der Prozess kann nicht als „Wunder
 
 In der folgenden Abbildung werden zusammenfassend die nötigen Eigenschaften eines Design Thinkers gezeigt:
 
-![Eigenschaften](0.4..png)
+![Eigenschaften](0.4.png)
 
 5. Fazit
 
