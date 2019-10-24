@@ -50,14 +50,14 @@ Im Design Thinking wird mit den Händen gedacht. Daher wird in der fünften Phas
 
 Wenn der Prototyp die optimale Lösung darstellt und der Test erfolgreich abgeschlossen wurde, kann dieser am realen potenziellen Nutzer bzw. Kunden getestet werden. Der Test stellt dann einen Erfolg dar, wenn der Prototyp marktfähig und nutzergerecht ist. Die Innovation sollte im Bestfall die Kundenbedürfnisse komplett befriedigen (Grots und Pratschke, 2009, S. 22).
 
-4. Anwendungsbereiche
+4.Anwendungsbereiche
 
 Der Design-Thinking-Prozess fand ursprünglich Anwendung in der Produktentwicklung. Es hat sich jedoch gezeigt, dass die Technik überall Anwendung findet, wo Lösungen durch eine Kreativtechnik gesucht werden. Dies kann beispielsweise bei Geschäftsmodellentwicklungen der Fall sein. Durch den Innovationsprozess können zudem Management- und Unternehmensstrategien entwickelt werden. Es bietet sich die Chance, Fehler zu akzeptieren und diese als Gewinn zu sehen. Eine positive Auswirkung auf die Motivation ist eine anzunehmende Folge. Anwendungen des Design-Thinking-Prozesses aus der Praxis zeigen, dass Bausteine einer Idee schon bei einer tieferen Beschäftigung mit dem Problemraum mit enthalten sind. Eine positive Auswirkung in der Praxis ist außerdem eine Erhöhung der Wettbewerbsfähigkeit auf dem Markt.
 Das Design Thinking weist auch Grenzen auf. Der Prozess kann nicht als „Wunderserum“ für jedes Problem gesehen werden. Es kann durchaus der Fall sein, dass keine Lösung gefunden wird. Dies gilt es zu akzeptieren. Die Wahrscheinlichkeit, die Bedürfnisse erfolgreich zu eruieren, wird trotz dessen erhöht, da die Chance, ein komplexes Problem zu lösen erhöht ist (López, 2019, S. 2, 4.) 
 
 In der folgenden Abbildung werden zusammenfassend die nötigen Eigenschaften eines Design Thinkers gezeigt:
 
-![Eigenschaften](0.4.png)
+![Eigenschaften](4.0.png)
 
 5 Fazit
 
@@ -69,7 +69,7 @@ Unternehmen müssen lernen, einen neuen Blickwinkel auf Fragestellungen und Erke
 
 
 
-6. Literaturverzeichnis
+6.Literaturverzeichnis
 
 Grots, A. und Pratschke, M. (2009). Design Thinking. Kreativität als Methode. Marketing Review St. Gallen. 2, S. 18-23.
 
